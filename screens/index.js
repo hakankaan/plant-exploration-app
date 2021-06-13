@@ -1,7 +1,7 @@
-import Home from './Home'
-import PlantDetail from './PlantDetail'
+import Home from "./Home";
+import PlantDetail from "./PlantDetail";
 
 export {
     Home,
     PlantDetail
-}
+};
